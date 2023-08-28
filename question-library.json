@@ -1,0 +1,178 @@
+[
+  {
+    "id": "a99907e3-ee17-4ac3-89be-ae08c4f699d5",
+    "title": "What are the basic skills involved in soccer?",
+    "imageUrl": "assets/quiz1.jpg",
+    "answers": [
+      {
+        "id": "1",
+        "title": "Passing",
+        "isCorrect": false
+      },
+      {
+        "id": "2",
+        "title": "Dribbling",
+        "isCorrect": true
+      },
+      {
+        "id": "3",
+        "title": "Shooting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "c2087711-c772-46cc-8fc7-1ec58295b778",
+    "title": "Name three field events in track and field athletics?",
+    "imageUrl": "assets/quiz2.jpg",
+    "answers": [
+      {
+        "id": "1",
+        "title": "Long Jump",
+        "isCorrect": true
+      },
+      {
+        "id": "2",
+        "title": "Shot Put",
+        "isCorrect": false
+      },
+      {
+        "id": "3",
+        "title": "Discus Throw",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "01fe569c-bb6a-4586-97b3-59d15b63c132",
+    "title": "What protective gear is commonly used in American football?",
+    "imageUrl": "assets/quiz3.jpg",
+    "answers": [
+      {
+        "id": "1",
+        "title": "Helmet",
+        "isCorrect": false
+      },
+      {
+        "id": "2",
+        "title": "Shoulder Pads",
+        "isCorrect": false
+      },
+      {
+        "id": "3",
+        "title": "Mouthguard",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "d01aaaa1-a550-4ec1-be20-da2a5b8d82e7",
+    "title": "Which strokes are part of the individual medley swimming event?",
+    "imageUrl": "assets/quiz4.jpg",
+    "answers": [
+      {
+        "id": "1",
+        "title": "Butterfly",
+        "isCorrect": false
+      },
+      {
+        "id": "2",
+        "title": "Backstroke",
+        "isCorrect": true
+      },
+      {
+        "id": "3",
+        "title": "Breaststroke",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "9f56e35b-5de0-498d-8da5-46d0bb2c925e",
+    "title": "What are three main components of a figure skater's performance?",
+    "imageUrl": "assets/quiz5.jpg",
+    "answers": [
+      {
+        "id": "1",
+        "title": "Jumps",
+        "isCorrect": false
+      },
+      {
+        "id": "2",
+        "title": "Spins",
+        "isCorrect": true
+      },
+      {
+        "id": "3",
+        "title": "Choreography",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "854593c9-5599-48f5-a0ea-fe9e2ad96e69",
+    "title": "Which equipment is essential for rock climbing?",
+    "imageUrl": "assets/quiz6.jpg",
+    "answers": [
+      {
+        "id": "1",
+        "title": "Harness",
+        "isCorrect": false
+      },
+      {
+        "id": "2",
+        "title": "Climbing Shoes",
+        "isCorrect": true
+      },
+      {
+        "id": "3",
+        "title": "Chalk Bag",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cd86f4db-efb5-4ca4-b097-06aca960d08c",
+    "title": "Name three types of scoring methods in fencing?",
+    "imageUrl": "assets/quiz7.jpg",
+    "answers": [
+      {
+        "id": "1",
+        "title": "Foil",
+        "isCorrect": false
+      },
+      {
+        "id": "2",
+        "title": "Epee",
+        "isCorrect": true
+      },
+      {
+        "id": "3",
+        "title": "Sabre",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "cd51f8ef-bc1c-4ba2-b171-972bfc6a4b07",
+    "title": "What are three fundamental moves in wrestling?",
+    "imageUrl": "assets/quiz8.jpg",
+    "answers": [
+      {
+        "id": "1",
+        "title": "Takedown",
+        "isCorrect": true
+      },
+      {
+        "id": "2",
+        "title": "Pinning",
+        "isCorrect": false
+      },
+      {
+        "id": "3",
+        "title": "Escape",
+        "isCorrect": false
+      }
+    ]
+  }
+]
